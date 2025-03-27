@@ -1,0 +1,13 @@
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\bin\Debug\warehouseDB.mdf
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\bin\Debug\warehouseDB_log.ldf
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\bin\Debug\richiesWarehouse.exe.config
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\bin\Debug\richiesWarehouse.exe
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\bin\Debug\richiesWarehouse.pdb
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.csproj.AssemblyReference.cache
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.Form1.resources
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.Properties.Resources.resources
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.csproj.GenerateResource.cache
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.csproj.CoreCompileInputs.cache
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.exe
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.pdb
+C:\Users\betha\Desktop\Visual Studio\richiesWarehouse\richiesWarehouse\obj\Debug\richiesWarehouse.loginForm.resources
