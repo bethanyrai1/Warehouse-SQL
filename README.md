@@ -15,6 +15,3 @@
 - <b>MySQL</b> 
 
 <h2>Preview:</h2>
-
-<p align="center">
-<img src="" height="80%" width="80%" alt="BASEPLATE"/>
