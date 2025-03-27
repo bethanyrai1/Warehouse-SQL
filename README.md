@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<h2>A small project that features an employee log-in and a stock database that allows users to search for products using a product ID or to add products into the database using SQL.</h2>
+<h2>A small .NET project that features an employee log-in and a stock database that allows users to search for products using a product ID or to add products into the database using SQL.</h2>
 <br />
 
 
