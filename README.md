@@ -14,4 +14,3 @@
 - <b>Visual Studio</b>
 - <b>MySQL</b> 
 
-<h2>Preview:</h2>
